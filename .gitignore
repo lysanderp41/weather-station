@@ -1,5 +1,6 @@
 
 *.env
+*.venv
 # Compiled source #
 ###################
 *.com
