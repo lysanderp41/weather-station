@@ -1,6 +1,7 @@
 
 *.env
 *.venv
+node_modules
 # Compiled source #
 ###################
 *.com
@@ -22,6 +23,7 @@
 *.rar
 *.tar
 *.zip
+package-lock.json
 
 # Logs and databases #
 ######################
