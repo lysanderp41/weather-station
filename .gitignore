@@ -23,7 +23,7 @@ node_modules
 *.rar
 *.tar
 *.zip
-package-lock.json
+*package-lock.json
 
 # Logs and databases #
 ######################
